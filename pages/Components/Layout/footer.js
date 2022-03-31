@@ -13,7 +13,8 @@ export default function Footer() {
           <div className={styles.row}>
               <div className={styles.col_50}>
           <span className={styles.heading}>{translations[locale].contact}</span>
-          <p className={styles.paragraph}>{translations[locale].contact_text}</p>
+          <p className={[styles.paragraph, styles.pp].join(" ")}>{translations[locale].contact_text}</p>
+          <h1 className={styles.paragraph}>Mantalena Bafiti | Architect Engineer</h1>
           <a className={styles.paragraph} href="tel:+302284045217">Tel: + (30) 22840 45217</a>
           <a className={styles.paragraph} href="tel:+306956641084">+ (30) 695 664 1084</a>
           <a className={styles.paragraph} href="https://www.google.com/maps/@37.0434129,25.2461308,18z">Marpissa Paros, Greece</a>
