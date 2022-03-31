@@ -9,8 +9,26 @@
   flex-wrap: wrap-reverse;
 }
 .aboutInner {
-  max-width: 900px;
+  max-width: 100%;
     margin: 0 auto;
+      background-color: #F9F7F7;
+}
+
+.pp {
+  padding: 30px;
+}
+.logo {
+  max-width: 300px;
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: -10px;
+}
+
+.logo img {
+    width: 50%;
+    box-sizing: border-box;
 }
 
 .aboutTitle {
@@ -60,59 +78,54 @@ background-position: center center;
 
 max-width: 100%;
 margin: 0 auto;
-transition: background-position 1s;
+transition: opacity 1s;
 }
 .project_box:hover {
-  background-position: 90% 30%;
+  opacity: 0.8;
 }
-.project:nth-child(even) .project_box {
-  height: 600px;
-  width: 450px;
-}
-
-.project:nth-child(odd)  .project_box{
-  height: 650px;
-  width: 450px;
-}
-
-.project:nth-child(3n+1)  .project_box{
+.project .project_box {
   height: 450px;
-  width: 450px;
+  width: 800px;
 }
 
-.project:nth-child(5n+1)  .project_box{
-  height: 550px;
-  width: 450px;
-}
 
 .separator {
   display: block;
   height: 100px;
 }
-.pp {
-  background-color: #F9F7F7;
-  padding: 30px;
-}
+
 .col_50 {
   width: 50%;
   box-sizing: border-box;
   position: relative;
 }
-
+@media screen and (min-width: 960px) {
 .text__box {
-  padding-left: 50px;
+  padding-left: 100px;
+}
 }
 .title {
   font-weight: 300;
-  font-size: 2.5rem;
+  font-size: 1.5rem;
   color: #242528;
   letter-spacing: 15px;
   left: 0;
-  max-width: 450px;
+  width: 50%;
   right: 0;
   margin-left: 0;
   margin-right: auto;
   z-index: 1;
+  box-sizing: border-box;
+  padding-left: 15px;
+}
+.title span:nth-of-type(1) {
+  letter-spacing: 10px;
+}
+.title span:nth-of-type(2) {
+  letter-spacing: 29px;
+}
+.title span:nth-of-type(3) {
+  letter-spacing: 11.5px;
 }
 
 .paragraph {
@@ -131,5 +144,36 @@ margin: 20px 0 30px 0;
   .col_50 {
     width: 100%;
     margin-bottom: 50px;
+  }
+.paragraph {
+  text-align: center;
+  font-size: 0.8rem;
+}
+.logo {
+  margin: 0 auto;
+}
+
+.logo img {
+  max-width: 100px;
+
+}
+
+.title {
+  font-size: 1rem;
+}
+.title span:nth-of-type(2) {
+  letter-spacing: 25px;
+}
+
+.title span:nth-of-type(3) {
+  letter-spacing: 11px;
+}
+  .button {
+    padding: 13px 5px;
+    margin: 20px auto;
+    width: 163px;
+    font-size: 0.8rem;
+    display: block;
+    text-align: center;
   }
 }

@@ -9,7 +9,7 @@ export default function Layout({ children }) {
         <link rel="icon" href="/favicon.ico" />
         </Head>
       <Header />
-      <main style={{marginTop: "120px"}}>{children}</main>
+      <main>{children}</main>
       <Footer />
     </>
   )
