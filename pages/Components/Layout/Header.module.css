@@ -1,0 +1,91 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 30px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: white;
+    z-index: 10;
+}
+
+.flagIcon {
+    width: 21px;
+    height: 18px;
+}
+
+.logo {
+    width: 200px;
+}
+
+.toggler {
+    display: none;
+}
+
+
+.nav_list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+
+.nav_list__item {
+    padding: 5px 10px;
+}
+
+
+
+.nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    z-index: 50;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.4s;
+    padding-top: 150px;
+}
+
+.nav_toggled {
+    visibility: visible;
+    opacity: 1;
+}
+
+.nav_list {
+    flex-direction: column;
+    padding: 0;
+}
+.nav_list__item {
+    font-size: 1.3rem;
+margin-bottom: 10px;
+}
+.toggler {
+    display: block;
+    cursor: pointer;
+    z-index: 9999;
+}
+.bar {
+    width: 30px;
+    height: 2px;
+    background-color: black;
+    display: block;
+    margin-top: 7px;
+    transition: transform 0.4s;
+}
+
+.toggled_bar:first-of-type {
+    transform: rotateZ(45deg);
+}
+.toggled_bar:last-of-type {
+    transform: rotateZ(-45deg);
+    margin-top: -2px;
+}
+.toggled_bar:nth-of-type(2) {
+    display: none;
+}

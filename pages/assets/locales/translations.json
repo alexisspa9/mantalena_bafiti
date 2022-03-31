@@ -1,0 +1,28 @@
+{
+    "en": {
+        "logo_alt": "Mantalena bafiti architect engineer logo",
+        "home_title": "Mantalena Bafiti | Architect Engineer",
+        "projects": "PROJECTS",
+        "about": "ABOUT",
+        "contact": "CONTACT",
+        "contact_text": "Feel free to visit our consultation office or contact us for further information.",
+        "language": "Language",
+        "your_fullname": "Your Name",
+        "your_email": "Your Email",
+        "your_message": "Your Message",
+        "send": "SEND"
+    },
+    "el": {
+        "logo_alt":"Μανταλένα Μπαφίτη αρχιτεκτων μηχανικος λογοτυπο",
+        "home_title": "Μανταλένα Μπαφίτη | Αρχιτέκτωνας Μηχανικός",
+        "projects": "ΠΡΟΤΖΕΚΤ",
+        "about": "ΣΧΕΤΙΚΑ",
+        "contact": "ΕΠΙΚΟΙΝΩΝΙΑ",
+        "contact_text": "Μη διστάσετε να επικοινωνήσετε μαζί μας για περισσότερες πληροφορίες.",
+        "language": "Γλώσσα",
+        "your_fullname": "Το ονομά σας",
+        "your_email": "Το Εμαιλ σας",
+        "your_message": "Το μηνυμά σας",
+        "send": "ΑΠΟΣΤΟΛΗ"
+    }
+}
