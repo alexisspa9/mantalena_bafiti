@@ -1,4 +1,4 @@
-import Layout from './Components/Layout'
+import Layout from '../Components/Layout'
 import '../styles/globals.css'
 import "../styles/embla.css";
 

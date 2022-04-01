@@ -1,13 +1,13 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
-import translations from "./assets/locales/translations.json"
+import translations from "../assets/locales/translations.json"
 import { useRouter } from "next/router"
-import homeCover from "./assets/images/mantalena-bafiti-villa-cover.jpg"
-import mant from "./assets/images/mantalena-bafiti-architect-engineer-paros-greece.jpg"
-import projects from "./assets/projects/projects.json";
-import logo from "./assets/images/paros-architecture-architect-mantalena-bafiti-new.svg"
-import EmblaCarousel from "./Components/Carousel"
+import homeCover from "../assets/images/mantalena-bafiti-villa-cover.jpg"
+import mant from "../assets/images/mantalena-bafiti-architect-engineer-paros-greece.jpg"
+import projects from "../assets/projects/projects.json";
+import logo from "../assets/images/paros-architecture-architect-mantalena-bafiti-new.svg"
+import EmblaCarousel from "../Components/Carousel"
 
 const basePath = "/images"
 
