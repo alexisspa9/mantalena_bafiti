@@ -4,9 +4,10 @@ import styles from '../styles/Home.module.css'
 import translations from "./assets/locales/translations.json"
 import { useRouter } from "next/router"
 import homeCover from "./assets/images/mantalena-bafiti-villa-cover.jpg"
+import mant from "./assets/images/mantalena-bafiti-architect-engineer-paros-greece.jpg"
 import projects from "./assets/projects/projects.json";
 import logo from "./assets/images/paros-architecture-architect-mantalena-bafiti-new.svg"
-
+import EmblaCarousel from "./Components/Carousel"
 
 const basePath = "/images"
 
@@ -42,7 +43,9 @@ export default function Home() {
         <div className={styles.projects}>
           {projects.projects.map(proj => {
             return <div key={proj} className={styles.project}>
-              <div className={styles.project_box} style={{backgroundImage: "url(" + `${basePath}/${proj.cover_image}` + ")"}}></div>
+              <div className={styles.project_box}>
+                <EmblaCarousel slides={proj.gallery} />
+              </div>
               <div className={styles.project_info}>
                 <h4>{locale == "en" ? proj.title_en : proj.title_el}</h4>
                 <span>{locale == "en" ? proj.caption_en : proj.caption_el}</span>
@@ -54,16 +57,16 @@ export default function Home() {
       </div>
       <div className={styles.separator}></div>
 
-      <div id="about">
+      <div id="about_container">
         <div className={styles.aboutInner}>
             <div className={styles.row}>
-              <div className={[styles.col_50, styles.pp].join(" ")}>
+              <div id="about" className={[styles.col_50, styles.pp].join(" ")}>
                 <h1 className={styles.aboutTitle}>Mantalena Bafiti</h1>
                 <p className={styles.aboutText}>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
                             </p>
                 </div>
                 <div className={styles.col_50}>
-                <img src={homeCover.src} alt="" />
+                <img src={mant.src} alt="" />
                 </div>
             </div>
         </div>

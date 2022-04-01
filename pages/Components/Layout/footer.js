@@ -4,12 +4,29 @@ import unitedKingdom from "../../assets/images/united-kingdom.png"
 import translations from "../../assets/locales/translations.json"
 import Link from "next/link";
 import styles from './Footer.module.css'
+import { useState } from 'react'
+import topArrow from "../../assets/images/top.png"
+import Image from 'next/image'
 
 export default function Footer() {
-    const { locale, locales, asPath } = useRouter()
+    const { locale, locales, asPath } = useRouter();
+    const [visible, setVisible] = useState(false);
+    const onVisible = () => {
+		const scrolled = document.documentElement.scrollTop
+		if (scrolled >= 600) setVisible(true)
+		else if (scrolled <= 300) setVisible(false)
+	}
+	if (typeof window === 'object') window.addEventListener('scroll', onVisible)
+    
+    const onScroll = () => {
+		if (typeof window === 'object') window.scrollTo({ top: 0, behavior: 'smooth' })
+	}
 
     return (
       <footer id="contact" className={styles.footer}>
+          <div className={visible ? [styles.backToTop, styles.visible].join(" ") : styles.backToTop} onClick={onScroll}>
+            <Image src={topArrow} alt="top arrow icon" />
+          </div>
           <div className={styles.row}>
               <div className={styles.col_50}>
           <span className={styles.heading}>{translations[locale].contact}</span>

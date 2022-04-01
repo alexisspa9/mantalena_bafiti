@@ -51,6 +51,7 @@
   width: 50%;
   box-sizing: border-box;
   margin-bottom: 80px;
+  padding: 5px;
 }
 
 @media screen and (max-width: 960px) {
@@ -60,7 +61,7 @@
 }
 .project_info {
   max-width: 450px;
-  margin: 0 auto;
+  margin-left: 10px;
 }
 
 .project_info h4 {
@@ -73,16 +74,10 @@
   font-size: 0.8rem;
 }
 .project_box {
-background-size: cover;
-background-position: center center;
-
 max-width: 100%;
 margin: 0 auto;
-transition: opacity 1s;
 }
-.project_box:hover {
-  opacity: 0.8;
-}
+
 .project .project_box {
   height: 450px;
   width: 800px;
