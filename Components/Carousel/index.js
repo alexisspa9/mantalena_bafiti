@@ -3,7 +3,8 @@ import useEmblaCarousel from "embla-carousel-react";
 
 const basePath = "/images"
 
-const EmblaCarousel = ({ slides }) => {
+const EmblaCarousel = ({ slides, locale }) => {
+
   const [viewportRef, embla] = useEmblaCarousel({ skipSnaps: false, loop: true });
   const [prevBtnEnabled, setPrevBtnEnabled] = useState(false);
   const [nextBtnEnabled, setNextBtnEnabled] = useState(false);
@@ -42,7 +43,7 @@ const EmblaCarousel = ({ slides }) => {
                   <img
                     className="embla__slide__img"
                     src={`${basePath}/${slide.src}`}
-                    alt={slide.alt}
+                    alt={locale == "en" ? slide.alt : slide.alt_el}
                   />
                 </div>
               </div>

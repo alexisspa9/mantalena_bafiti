@@ -2,27 +2,49 @@
     "en": {
         "logo_alt": "Mantalena bafiti architect engineer logo",
         "home_title": "Mantalena Bafiti | Architect Engineer",
+        "description": "sds",
         "projects": "PROJECTS",
         "about": "ABOUT",
         "contact": "CONTACT",
         "contact_text": "Feel free to visit our consultation office or contact us for further information.",
+        "contact_title": "Mantalena Bafiti | Architect Engineer",
+        "contact_address": "Marpissa Paros, Greece",
         "language": "Language",
         "your_fullname": "Your Name",
         "your_email": "Your Email",
         "your_message": "Your Message",
-        "send": "SEND"
+        "send": "SEND",
+        "about_text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "mantalena_bafiti": "Mantalena Bafiti",
+        "view_projects": "View Out Projects",
+        "home_little": "We create, you enjoy!",
+        "projectss": "Projects",
+        "homeCoverAlt": "Mantalena Bafiti architect paros greece",
+        "aboutImgAlt": "Mantalena Bafiti architect paros greece"
+
     },
     "el": {
         "logo_alt":"Μανταλένα Μπαφίτη αρχιτεκτων μηχανικος λογοτυπο",
         "home_title": "Μανταλένα Μπαφίτη | Αρχιτέκτωνας Μηχανικός",
+        "description": "sds",
         "projects": "ΠΡΟΤΖΕΚΤ",
         "about": "ΣΧΕΤΙΚΑ",
         "contact": "ΕΠΙΚΟΙΝΩΝΙΑ",
         "contact_text": "Μη διστάσετε να επικοινωνήσετε μαζί μας για περισσότερες πληροφορίες.",
+        "contact_title": "Μανταλένα Μπαφίτη | Αρχιτέκτονας Μηχανικός",
+        "contact_address": "Μάρπησσα Πάρος, Ελλάδα",
         "language": "Γλώσσα",
         "your_fullname": "Το ονομά σας",
         "your_email": "Το Εμαιλ σας",
         "your_message": "Το μηνυμά σας",
-        "send": "ΑΠΟΣΤΟΛΗ"
+        "send": "ΑΠΟΣΤΟΛΗ",
+        "about_text": "δαλιαιξ απ ξαδαξπο πξαδπο αδ ποαδ πξοαδπ οαδ",
+        "mantalena_bafiti": "Μανταλένα Μπαφίτη",
+        "view_projects": "Τα έργα μας",
+        "home_little": "Δημιουργούμε και απολαμβάνεται!",
+        "projectss": "Έργα",
+        "homeCoverAlt": "Μανταλένα Μπαφίτη αρχιτεκτωνας πάρος",
+        "aboutImgAlt": "Μανταλένα Μπαφίτη αρχιτεκτωνας πάρος"
+
     }
 }
