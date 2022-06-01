@@ -1,386 +1,146 @@
 {
     "projects": [
         {
-            "title_en": "Underground Villas. Tzane Paros - 1",
-            "title_el": "Underground Villas. Tzane Paros - 1",
-            "caption_en": "Underground Villas. Tzane Paros - 1",
-            "caption_el": "Underground Villas. Tzane Paros - 1",
+            "title_en": "Pool - Drios Paros",
+            "title_el": "Πισίνα - Δρυός Πάρος",
+            "caption_en": "Pool design in existing villa Drios Paros",
+            "caption_el": "Σχεδιασμός πισίνας σε υπάρχουσα βίλα στον Δρυό Πάρου",
             "gallery": [
                 {
-                    "src": "underground-villa-tserdakia.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
+                    "src": "projects/dryos-pisina/mantalena-bafiti-pool-design-dryos-paros-1.jpg",
+                    "alt": "Pool Design in existing villa at Drios Paros from architect Mantalena Bafiti photo 1",
+                    "alt_el": "Σχεδιασμός πισίνας σε υπάρχουσα βιλα στον Δρυό της Πάρου απο την αρχιτέκτονα Μανταλένα Μπαφίτη. Φωτό 1"
                 },
                 {
-                    "src": "underground-villas-tzane-paros.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                },
-                {
-                    "src": "cliff-villas-dasos-paros-2.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                }
-            ],
-            "cover_image": "underground-villa-tserdakia.jpg"
-        },
-        {
-            "title_en": "Underground Villas. Tzane Paros - 1",
-            "title_el": "Underground Villas. Tzane Paros - 1",
-            "caption_en": "Underground Villas. Tzane Paros - 1",
-            "caption_el": "Underground Villas. Tzane Paros - 1",
-            "cover_image": "underground-villas-tzane-paros.jpg",
-               "gallery": [
-                {
-                    "src": "underground-villa-tserdakia.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                },
-                {
-                    "src": "underground-villas-tzane-paros.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                },
-                {
-                    "src": "cliff-villas-dasos-paros-2.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
+                    "src": "projects/dryos-pisina/mantalena-bafiti-pool-design-dryos-paros-2.jpg",
+                    "alt": "Pool Design in existing villa at Drios Paros from architect Mantalena Bafiti photo 2",
+                    "alt_el": "Σχεδιασμός πισίνας σε υπάρχουσα βιλα στον Δρυό της Πάρου απο την αρχιτέκτονα Μανταλένα Μπαφίτη. Φωτό 2"
                 }
             ]
         },
         {
-            "title_en": "Underground Villas. Tzane Paros - 1",
-            "title_el": "Underground Villas. Tzane Paros - 1",
-            "caption_en": "Underground Villas. Tzane Paros - 1",
-            "caption_el": "Underground Villas. Tzane Paros - 1",
-            "cover_image": "cliff-villas-dasos-paros-2.jpg",
+            "title_en": "Twin Villa - Saint Anna",
+            "title_el": "Βίλα - Αγία Άννα",
+            "caption_en": "Twin Villa located at Saint Anna Paros",
+            "caption_el": "Βίλες στην Αγία Άννα Πάρος",
                "gallery": [
                 {
-                    "src": "underground-villa-tserdakia.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
+                    "src": "projects/twin-villa-Saint-Anna/mantalena-bafiti-twin-villa-saint-anna-paros-1.jpg",
+                    "alt": "Villa Construction Paros from architect Mantalena Bafiti photo 1",
+                    "alt_el": "Κατασκευή βίλας στην Πάρου απο την αρχιτέκτονα Μανταλένα Μπαφίτη. Φωτό 1"
                 },
                 {
-                    "src": "underground-villas-tzane-paros.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                },
-                {
-                    "src": "cliff-villas-dasos-paros-2.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
+                    "src": "projects/twin-villa-Saint-Anna/mantalena-bafiti-twin-villa-saint-anna-paros-2.jpg",
+                    "alt": "Villa Construction Paros from architect Mantalena Bafiti photo 2",
+                    "alt_el": "Κατασκευή βίλας στην Πάρου απο την αρχιτέκτονα Μανταλένα Μπαφίτη. Φωτό 2"
                 }
             ]
         },
         {
-            "title_en": "Underground Villas. Tzane Paros - 1",
-            "title_el": "Underground Villas. Tzane Paros - 1",
-            "caption_en": "Underground Villas. Tzane Paros - 1",
-            "caption_el": "Underground Villas. Tzane Paros - 1",
-            "cover_image": "underground-villa-tserdakia.jpg",
+            "title_en": "Two Storey - Tzane",
+            "title_el": "Βίλα - Τζάνε",
+            "caption_en": "Two Storey Villa located at Tzane",
+            "caption_el": "Βίλες στην περιοχή Τζάνε",
                "gallery": [
                 {
-                    "src": "underground-villa-tserdakia.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
+                    "src": "projects/two-storey-villa-tzane/mantalena-bafiti-two-storey-villa-tzane-paros-1.jpg",
+                    "alt": "Villa Construction Paros from architect Mantalena Bafiti photo 1",
+                    "alt_el": "Κατασκευή βίλας στην Πάρου απο την αρχιτέκτονα Μανταλένα Μπαφίτη. Φωτό 1"
                 },
                 {
-                    "src": "underground-villas-tzane-paros.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                },
-                {
-                    "src": "cliff-villas-dasos-paros-2.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
+                    "src": "projects/two-storey-villa-tzane/mantalena-bafiti-two-storey-villa-tzane-paros-2.jpg",
+                    "alt": "Villa Construction Paros from architect Mantalena Bafiti photo 2",
+                    "alt_el": "Κατασκευή βίλας στην Πάρου απο την αρχιτέκτονα Μανταλένα Μπαφίτη. Φωτό 2"
                 }
             ]
         },
         {
-            "title_en": "Underground Villas. Tzane Paros - 1",
-            "title_el": "Underground Villas. Tzane Paros - 1",
-            "caption_en": "Underground Villas. Tzane Paros - 1",
-            "caption_el": "Underground Villas. Tzane Paros - 1",
-            "cover_image": "underground-villa-tserdakia.jpg",
+            "title_en": "Underground Villa - Tserdakia",
+            "title_el": "Υπόσκαφη Βίλα - Τσερδάκια",
+            "caption_en": "Underground Villa located at Tserdakia",
+            "caption_el": "Υπόσκαφη Βίλα στην περιοχή Τσερδάκια",
                "gallery": [
                 {
-                    "src": "underground-villa-tserdakia.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
+                    "src": "projects/underground-villa-tserdakia/mantalena-bafiti-underground-villa-tserdakia-paros-1.jpg",
+                    "alt": "Underground Villa Construction Paros from architect Mantalena Bafiti photo 1",
+                    "alt_el": "Κατασκευή υπόσκαφη  Βίλα στην Πάρου απο την αρχιτέκτονα Μανταλένα Μπαφίτη. Φωτό 1"
                 },
                 {
-                    "src": "underground-villas-tzane-paros.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                },
-                {
-                    "src": "cliff-villas-dasos-paros-2.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
+                    "src": "projects/underground-villa-tserdakia/mantalena-bafiti-underground-villa-tserdakia-paros-2.jpg",
+                    "alt": "Underground Villa Construction Paros from architect Mantalena Bafiti photo 2",
+                    "alt_el": "Κατασκευή υπόσκαφη βίλας στην Πάρου απο την αρχιτέκτονα Μανταλένα Μπαφίτη. Φωτό 2"
                 }
             ]
         },
         {
-            "title_en": "Underground Villas. Tzane Paros - 1",
-            "title_el": "Underground Villas. Tzane Paros - 1",
-            "caption_en": "Underground Villas. Tzane Paros - 1",
-            "caption_el": "Underground Villas. Tzane Paros - 1",
-            "cover_image": "underground-villa-tserdakia.jpg",
+            "title_en": "Groundfloor Villa - Golden Beach",
+            "title_el": "Βίλα - Χρυσή Ακτή",
+            "caption_en": "Groundfloor Villa located at Golden Beach",
+            "caption_el": "Υπόσκαφη Βίλα στην περιοχή Χρυσή Ακτή",
                "gallery": [
                 {
-                    "src": "underground-villa-tserdakia.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
+                    "src": "projects/groundfloor-villa-golden-beach/mantalena-bafiti-groundfloor-villa-golden-beach-paros-1.jpg",
+                    "alt": "Groundfloor Villa Construction Paros from architect Mantalena Bafiti photo 1",
+                    "alt_el": "Βίλα στην Πάρο απο την αρχιτέκτονα Μανταλένα Μπαφίτη. Φωτό 1"
                 },
                 {
-                    "src": "underground-villas-tzane-paros.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                },
-                {
-                    "src": "cliff-villas-dasos-paros-2.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
+                    "src": "projects/groundfloor-villa-golden-beach/mantalena-bafiti-groundfloor-villa-golden-beach-paros-2.jpg",
+                    "alt": "Groundfloor Villa Construction Paros from architect Mantalena Bafiti photo 2",
+                    "alt_el": "Βίλα στην Πάρο απο την αρχιτέκτονα Μανταλένα Μπαφίτη. Φωτό 2"
                 }
             ]
         },
         {
-            "title_en": "Underground Villas. Tzane Paros - 1",
-            "title_el": "Underground Villas. Tzane Paros - 1",
-            "caption_en": "Underground Villas. Tzane Paros - 1",
-            "caption_el": "Underground Villas. Tzane Paros - 1",
-            "cover_image": "underground-villa-tserdakia.jpg",
+            "title_en": "Cliff Villas",
+            "title_el": "Cliff Villas",
+            "caption_en": "Cliff Villas Paros",
+            "caption_el": "Βίλες στην Πάρο",
                "gallery": [
                 {
-                    "src": "underground-villa-tserdakia.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
+                    "src": "projects/cliff-villas/mantalena-bafiti-cliff-villas-paros-1.jpg",
+                    "alt": "Cliff Villas from architect Mantalena Bafiti photo 1",
+                    "alt_el": "Βίλα στην Πάρο απο την αρχιτέκτονα Μανταλένα Μπαφίτη. Φωτό 1"
                 },
                 {
-                    "src": "underground-villas-tzane-paros.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                },
-                {
-                    "src": "cliff-villas-dasos-paros-2.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
+                    "src": "projects/cliff-villas/mantalena-bafiti-cliff-villas-paros-2.jpg",
+                    "alt": "Cliff Villas from architect Mantalena Bafiti photo 2",
+                    "alt_el": "Βίλα στην Πάρο απο την αρχιτέκτονα Μανταλένα Μπαφίτη. Φωτό 2"
                 }
             ]
         },
         {
-            "title_en": "Underground Villas. Tzane Paros - 1",
-            "title_el": "Underground Villas. Tzane Paros - 1",
-            "caption_en": "Underground Villas. Tzane Paros - 1",
-            "caption_el": "Underground Villas. Tzane Paros - 1",
-            "cover_image": "underground-villa-tserdakia.jpg",
+            "title_en": "Two Storey Villa - Golden Beach",
+            "title_el": "Δυόροφη Βίλα - Χρυσή Ακτή",
+            "caption_en": "Two Storey Villa located at Golden Beach",
+            "caption_el": "Δυόροφη Βίλα στην περιοχή Χρυσή Ακτή",
                "gallery": [
                 {
-                    "src": "underground-villa-tserdakia.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
+                    "src": "projects/two-storey-villa-golden-beach/mantalena-bafiti-two-storey-villa-golden-beach-paros-1.jpg",
+                    "alt": "Two Storey Villa from architect Mantalena Bafiti photo 1",
+                    "alt_el": "Δυόροφη Βίλα στην Πάρο απο την αρχιτέκτονα Μανταλένα Μπαφίτη. Φωτό 1"
                 },
                 {
-                    "src": "underground-villas-tzane-paros.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                },
-                {
-                    "src": "cliff-villas-dasos-paros-2.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
+                    "src": "projects/two-storey-villa-golden-beach/mantalena-bafiti-two-storey-villa-golden-beach-paros-2.jpg",
+                    "alt": "Two Storey Villa from architect Mantalena Bafiti photo 2",
+                    "alt_el": "Δυόροφη Βίλα στην Πάρο απο την αρχιτέκτονα Μανταλένα Μπαφίτη. Φωτό 2"
                 }
             ]
         },
         {
-            "title_en": "Underground Villas. Tzane Paros - 1",
-            "title_el": "Underground Villas. Tzane Paros - 1",
-            "caption_en": "Underground Villas. Tzane Paros - 1",
-            "caption_el": "Underground Villas. Tzane Paros - 1",
-            "cover_image": "underground-villa-tserdakia.jpg",
+            "title_en": "Underground Villa - Tzane",
+            "title_el": "Υπόσκαφη Βίλα - Τζάνε",
+            "caption_en": "Underground Villa located at Tzane",
+            "caption_el": "Υπόσκαφη Βίλα στην περιοχή Τζάνε",
                "gallery": [
                 {
-                    "src": "underground-villa-tserdakia.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
+                    "src": "projects/underground-villas-tzanes/mantalena-bafiti-underground-villas-tzanes-paros-1.jpg",
+                    "alt": "Underground Villa from architect Mantalena Bafiti photo 1",
+                    "alt_el": "Υπόσκαφη Βίλα στην Πάρο απο την αρχιτέκτονα Μανταλένα Μπαφίτη. Φωτό 1"
                 },
                 {
-                    "src": "underground-villas-tzane-paros.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                },
-                {
-                    "src": "cliff-villas-dasos-paros-2.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                }
-            ]
-        },
-        {
-            "title_en": "Underground Villas. Tzane Paros - 1",
-            "title_el": "Underground Villas. Tzane Paros - 1",
-            "caption_en": "Underground Villas. Tzane Paros - 1",
-            "caption_el": "Underground Villas. Tzane Paros - 1",
-            "cover_image": "underground-villa-tserdakia.jpg",
-               "gallery": [
-                {
-                    "src": "underground-villa-tserdakia.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                },
-                {
-                    "src": "underground-villas-tzane-paros.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                },
-                {
-                    "src": "cliff-villas-dasos-paros-2.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                }
-            ]
-        },
-        {
-            "title_en": "Underground Villas. Tzane Paros - 1",
-            "title_el": "Underground Villas. Tzane Paros - 1",
-            "caption_en": "Underground Villas. Tzane Paros - 1",
-            "caption_el": "Underground Villas. Tzane Paros - 1",
-            "cover_image": "underground-villa-tserdakia.jpg",
-               "gallery": [
-                {
-                    "src": "underground-villa-tserdakia.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                },
-                {
-                    "src": "underground-villas-tzane-paros.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                },
-                {
-                    "src": "cliff-villas-dasos-paros-2.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                }
-            ]
-        },
-        {
-            "title_en": "Underground Villas. Tzane Paros - 1",
-            "title_el": "Underground Villas. Tzane Paros - 1",
-            "caption_en": "Underground Villas. Tzane Paros - 1",
-            "caption_el": "Underground Villas. Tzane Paros - 1",
-            "cover_image": "underground-villa-tserdakia.jpg",
-               "gallery": [
-                {
-                    "src": "underground-villa-tserdakia.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                },
-                {
-                    "src": "underground-villas-tzane-paros.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                },
-                {
-                    "src": "cliff-villas-dasos-paros-2.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                }
-            ]
-        },
-        {
-            "title_en": "Underground Villas. Tzane Paros - 1",
-            "title_el": "Underground Villas. Tzane Paros - 1",
-            "caption_en": "Underground Villas. Tzane Paros - 1",
-            "caption_el": "Underground Villas. Tzane Paros - 1",
-            "cover_image": "underground-villa-tserdakia.jpg",
-               "gallery": [
-                {
-                    "src": "underground-villa-tserdakia.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                },
-                {
-                    "src": "underground-villas-tzane-paros.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                },
-                {
-                    "src": "cliff-villas-dasos-paros-2.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                }
-            ]
-        },
-        {
-            "title_en": "Underground Villas. Tzane Paros - 1",
-            "title_el": "Underground Villas. Tzane Paros - 1",
-            "caption_en": "Underground Villas. Tzane Paros - 1",
-            "caption_el": "Underground Villas. Tzane Paros - 1",
-            "cover_image": "underground-villa-tserdakia.jpg",
-               "gallery": [
-                {
-                    "src": "underground-villa-tserdakia.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                },
-                {
-                    "src": "underground-villas-tzane-paros.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                },
-                {
-                    "src": "cliff-villas-dasos-paros-2.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                }
-            ]
-        },
-        {
-            "title_en": "Underground Villas. Tzane Paros - 1",
-            "title_el": "Underground Villas. Tzane Paros - 1",
-            "caption_en": "Underground Villas. Tzane Paros - 1",
-            "caption_el": "Underground Villas. Tzane Paros - 1",
-            "cover_image": "underground-villa-tserdakia.jpg",
-               "gallery": [
-                {
-                    "src": "underground-villa-tserdakia.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                },
-                {
-                    "src": "underground-villas-tzane-paros.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                },
-                {
-                    "src": "cliff-villas-dasos-paros-2.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                }
-            ]
-        },
-        {
-            "title_en": "Underground Villas. Tzane Paros - 1",
-            "title_el": "Underground Villas. Tzane Paros - 1",
-            "caption_en": "Underground Villas. Tzane Paros - 1",
-            "caption_el": "Underground Villas. Tzane Paros - 1",
-            "cover_image": "underground-villa-tserdakia.jpg",
-               "gallery": [
-                {
-                    "src": "underground-villa-tserdakia.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                },
-                {
-                    "src": "underground-villas-tzane-paros.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
-                },
-                {
-                    "src": "cliff-villas-dasos-paros-2.jpg",
-                    "alt": "Undergound villa tserdakia",
-                    "alt_el": "Βιλα υποσκαφη"
+                    "src": "projects/underground-villas-tzanes/mantalena-bafiti-underground-villas-tzanes-paros-2.jpg",
+                    "alt": "Underground Villa from architect Mantalena Bafiti photo 2",
+                    "alt_el": "Υπόσκαφη Βίλα στην Πάρο απο την αρχιτέκτονα Μανταλένα Μπαφίτη. Φωτό 2"
                 }
             ]
         }

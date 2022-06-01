@@ -63,6 +63,7 @@ export default function Home() {
               <div id="about" className={[styles.col_50, styles.pp].join(" ")}>
                 <h1 className={styles.aboutTitle}>{translations[locale].mantalena_bafiti}</h1>
                 <p className={styles.aboutText}>{translations[locale].about_text}</p>
+                <p className={styles.aboutText}>{translations[locale].about_text_two}</p>
                 </div>
                 <div className={styles.col_50}>
                 <img src={mant.src} alt={translations[locale].aboutImgAlt} />
