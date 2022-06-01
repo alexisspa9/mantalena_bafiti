@@ -10,6 +10,13 @@
     z-index: 30;
 }
 
+.nav_lang {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding-left: 0;
+}
+
 .flagIcon {
     width: 21px;
     height: 18px;

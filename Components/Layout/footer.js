@@ -40,7 +40,7 @@ export default function Footer() {
         <ul className={styles.flagList}>
          {
                         locales.map((l, i) => {
-                            return <li key={i} className={styles.nav_list__item}>
+                            return <li key={"footer-lang-" + i} className={styles.nav_list__item}>
                                     <Link
                                         href={asPath}
                                         locale={l}

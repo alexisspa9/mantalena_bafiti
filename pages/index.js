@@ -19,6 +19,7 @@ export default function Home() {
       <Head>
         <title>{translations[locale].home_title}</title>
         <meta name="description" content={translations[locale].description} />
+        <meta name="keywords" content={translations[locale].keywords} />
       </Head>
       <div id="homeContainer">
         <div className={styles.row}>
@@ -42,7 +43,7 @@ export default function Home() {
         <h3>{translations[locale].projectss}</h3>
         <div className={styles.projects}>
           {projects.projects.map(proj => {
-            return <div key={proj} className={styles.project}>
+            return <div key={proj.title_en} className={styles.project}>
               <div className={styles.project_box}>
                 <EmblaCarousel slides={proj.gallery} locale={locale} />
               </div>
