@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://mantalenabafiti.gr
+
+# Sitemaps
+Sitemap: https://mantalenabafiti.gr/sitemap.xml
